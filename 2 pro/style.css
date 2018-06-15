@@ -1,0 +1,57 @@
+/* This is a CSS comment. Notice that CSS comments are
+enclosed by different characters than HTML comments. */
+
+/* CSS allows you to give your page style (colors, shapes, fonts, etc.)
+You can apply CSS elements to entire HTML classes.*/
+body {
+  font-family:cursive , serif;
+  width: 720px;
+  margin: 0 auto;
+}
+
+
+h2 {
+  text-align: left;
+  background: yellow;
+  color: black;
+  padding: 20px;
+}
+
+
+
+
+.one img {
+  display:block;
+  margin: 0 auto;
+  padding: 10px;
+  width: 85%;
+    
+    
+    
+    
+}
+
+.three {
+  font-family: "optima";
+  font-weight: bold;
+}
+
+ol {
+  margin: 6px 0;
+}
+li {
+  margin: 6px 0;
+}
+
+
+.ten img
+{
+    float:inherit;
+ 
+  margin: auto;
+  padding:10px;
+  width:20%;
+    
+}
+
+
