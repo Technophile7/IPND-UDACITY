@@ -27,4 +27,4 @@
 
 ## PROJECT-5
 
-**Build a Single Screen App** _(Build your first Android app - a design for a local business that could be used as a business card.)._
+**Build a Single Screen App** _(Build your first Android app - a design for a local business that could be used as a business card.(i choose android for my 5th project)._
